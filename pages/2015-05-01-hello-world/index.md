@@ -11,6 +11,9 @@ tags:
 ---
 
 This is my first post on my new fake blog! How exciting!
+Welcome to website made by ramanan
+This is demo site  as a starter demo blog by using gatsby js.
+
 
 I'm sure I'll write a lot more interesting things in the future.
 
